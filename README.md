@@ -4,9 +4,8 @@
 ---
 
 ## 🌐 Контакты  
-Telegram https://t.me/Ruslan_Nasyrovww
-Email ruslan_nasyrov_2000@inbox.ru
-
+[![Telegram](https://img.shields.io/badge/Telegram-@Ruslan_Nasyrovww-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Ruslan_Nasyrovww)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-FF5722?style=flat&logo=gmail&logoColor=white)](mailto:ruslan_nasyrov_2000@inbox.ru)
 ---
 
 ## 🚀 Обо мне  
